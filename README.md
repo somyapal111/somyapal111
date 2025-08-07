@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somya Pal</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyapal111&label=Profile%20views&color=0e75b6&style=flat" alt="somyapal111" /> </p>
